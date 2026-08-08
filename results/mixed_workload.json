@@ -1,0 +1,20 @@
+{
+  "database": "CognoDB",
+  "workload": {
+    "clients": 10,
+    "duration_seconds": 61.41906819998985,
+    "configured_read_percentage": 80,
+    "configured_write_percentage": 20,
+    "actual_read_percentage": 79.92307692307692,
+    "actual_write_percentage": 20.076923076923077
+  },
+  "operations": {
+    "total": 1300,
+    "reads": 1039,
+    "writes": 261,
+    "failed": 0
+  },
+  "performance": {
+    "qps": 21.16606516671666
+  }
+}
